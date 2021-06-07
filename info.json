@@ -1,8 +1,8 @@
 {
     "name": "underground-pipe-pack-simplified",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "title": "Less Advanced Fluid Handling",
-    "description": "Advanced Fluid Handling recipes are to complicated. Reduce intermediates, use normal pipes.",
+    "description": "Advanced Fluid Handling recipes are too complicated. Reduce intermediates, use normal pipes.",
     "author": "Harag",
     "contact": "none",
     "factorio_version": "1.1",

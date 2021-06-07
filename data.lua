@@ -76,7 +76,7 @@ end
 
 local function replace_ingredients(recipe_name, ingredients)
     local recipe = data.raw.recipe[recipe_name]
-    if recipe_name then
+    if recipe then
         recipe.ingredients = ingredients
     end
 end
